@@ -1,4 +1,3 @@
 # CODSOFT
-Tasks for successful completion of internship
-Level - 1 Calculator app using HTML CSS JavaScript
-Level - 3 Full stack Blogging website using HTML CSS & JavaScript for frontend and NodeJS for backend
+Tasks for successful completion of internship -->
+Level - 3 task no. 1 Full stack Blogging website using HTML CSS & JavaScript for frontend and NodeJS for backend
